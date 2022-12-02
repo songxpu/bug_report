@@ -18,4 +18,4 @@ The most obvious and immediate effect of a memory leak is to have less and less 
 
 reproduce by ASAN
 
-![image-20221202102500588](./memory leak in dcmtk 3.6.7.assets/image-20221202102500588.png)
+![image-20221202102500588](./image-20221202102500588.png)
